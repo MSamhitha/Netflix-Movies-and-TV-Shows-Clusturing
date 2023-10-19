@@ -11,3 +11,17 @@ Using data preprocessing, PCA, K-means, hierarchical clustering, and a recommend
 
 4. **Dimensionality Reduction (PCA):** Principal Component Analysis (PCA) is used to reduce the dimensionality of the dataset.
 
+5. **Machine Learning Model Implementation:**
+   - **K-means Clustering:** Implementation of K-means clustering.
+   - **Hierarchical Clustering:** Implementation of hierarchical clustering.
+   - **Recommendation System:** A recommendation system is implemented to provide personalized content recommendations.
+
+6. **Evaluation Metrics:** Clustering quality is assessed using Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Score.
+
+## Clustering Techniques
+
+Two different clustering techniques are applied to the dataset. You can explore and compare the results of each method.
+
+## Recommendation System
+
+A recommendation system is implemented to provide personalized content recommendations based on user preferences.
