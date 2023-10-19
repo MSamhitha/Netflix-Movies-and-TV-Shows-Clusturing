@@ -20,8 +20,10 @@ Using data preprocessing, PCA, K-means, hierarchical clustering, and a recommend
 
 ## Clustering Techniques
 
-Two different clustering techniques are applied to the dataset. You can explore and compare the results of each method.
+Two different clustering techniques are applied to the dataset. 
 
 ## Recommendation System
 
 A recommendation system is implemented to provide personalized content recommendations based on user preferences.
+
+This project serves as a valuable step toward understanding user behavior, content management, and release strategies on the platform, ultimately benefiting both users and Netflix content providers.
